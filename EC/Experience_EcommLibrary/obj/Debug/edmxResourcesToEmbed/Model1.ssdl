@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ExperienceEcommerceDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Reimbursement_Form">
+    <Key>
+      <PropertyRef Name="Rem_ID" />
+    </Key>
+    <Property Name="Rem_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Month" Type="varchar" MaxLength="20" />
+    <Property Name="Reimbursement_type" Type="varchar" MaxLength="20" />
+    <Property Name="From_Date" Type="date" />
+    <Property Name="To_Date" Type="date" />
+    <Property Name="Purpose" Type="varchar" MaxLength="50" />
+    <Property Name="Mode" Type="varchar" MaxLength="20" />
+    <Property Name="km" Type="varchar" MaxLength="50" />
+    <Property Name="InvNo" Type="varchar" MaxLength="50" />
+    <Property Name="Amt" Type="money" />
+    <Property Name="Attachment" Type="varchar" MaxLength="500" />
+    <Property Name="Hotel_Name" Type="varchar" MaxLength="100" />
+    <Property Name="Date" Type="date" />
+  </EntityType>
+  <EntityContainer Name="ExperienceEcommerceDBModelStoreContainer">
+    <EntitySet Name="Reimbursement_Form" EntityType="Self.Reimbursement_Form" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

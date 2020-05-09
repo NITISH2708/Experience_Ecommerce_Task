@@ -1,0 +1,10 @@
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\Experience_EcommLibrary.dll.config
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\Experience_EcommLibrary.dll
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\Experience_EcommLibrary.pdb
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\EntityFramework.dll
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\EntityFramework.xml
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\obj\Debug\Experience_EcommLibrary.csprojResolveAssemblyReference.cache
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\obj\Debug\Experience_EcommLibrary.dll
+C:\Users\bantee-pc\Desktop\ExperienceEcommerce\EC\Experience_EcommLibrary\obj\Debug\Experience_EcommLibrary.pdb
